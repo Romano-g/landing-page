@@ -15,4 +15,5 @@
     "editor.indentSize": "tabSize",
     "editor.tabSize": 2,
     "workbench.tree.renderIndentGuides": "onHover",
+    "window.zoomLevel": 0
 }
