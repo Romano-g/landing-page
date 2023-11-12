@@ -273,6 +273,7 @@
 .foot a {
   color: inherit;
   font-style: italic;
+  text-decoration: underline;
 }
 
 .foot p {
